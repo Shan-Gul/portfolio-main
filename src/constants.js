@@ -43,13 +43,7 @@ import vpsLogo from "./assets/education_logo/SchColl.jpg";
 
 // Project Section Logo's
 import githubdetLogo from "./assets/TMS.jpeg";
-import movierecLogo from "./assets/matchMate.jpeg";
-import taskremLogo from "./assets/work_logo/task_rem.png";
-import npmLogo from "./assets/work_logo/npm.png";
-import webverLogo from "./assets/work_logo/web_dig.png";
-import cmLogo from "./assets/work_logo/cm.png";
-import imagesearchLogo from "./assets/work_logo/image_search.png";
-import removebgLogo from "./assets/work_logo/remove_bg.png";
+import movierecLogo from "./assets/portfolio.jpg";
 
 export const SkillsInfo = [
   {
@@ -176,7 +170,7 @@ export const projects = [
     image: githubdetLogo,
     tags: ["HTML", "CSS", "JavaScript", "ASP.NET", "C#"],
     github:"https://github.com/Shan-Gul/Tutor-Management--master",
-    webapp: "round-cake.surge.sh",
+    webapp: "http://tutor-management--master.runasp.net/",
   },
   {
     id: 1,
@@ -190,10 +184,8 @@ export const projects = [
       "PHP",
       "Python",
       "Kotlin"
-     
     ],
     github: "https://github.com/Shan-Gul/Match-Mate-main",
-    webapp: "http://subdued-mass.surge.sh/",
   },
   {
     id: 2,
@@ -201,8 +193,8 @@ export const projects = [
     description:
       "Personal Portfolio Website – A modern, responsive portfolio built with HTML, CSS, JavaScript, and React (Vite) to showcase my skills, projects, and professional experience. The site features smooth animations, a clean UI, and sections for About, Work Experience, Projects, Skills, and Contact. It also includes a downloadable resume and links to my GitHub and LinkedIn, making it a central hub for my professional profile.",
     image: movierecLogo,
-    tags: ["Python", "API", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/codingmastr/Movie-Recommendation-App",
-    webapp: "https://movie-recommendation-app-jet.vercel.app/",
+    tags: ["React", "HTML", "CSS", "JavaScript"],
+    github: "https://github.com/Shan-Gul/portfolio-main",
+    webapp: "round-cake.surge.sh",
   },
 ];
