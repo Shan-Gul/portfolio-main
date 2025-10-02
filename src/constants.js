@@ -106,7 +106,7 @@ export const experiences = [
     id: 0,
     img: webverseLogo,
     role: "Software Engineer",
-    company: "Edenrobe Apparells",
+    company: "Edenrobe Apparels",
     date: "July 2025 - Present",
     desc: "Contributing as a Full Stack Software Engineer, focusing on ERP system development and optimization. Development: Designing and enhancing ERP modules using ASP.NET WebForms, ASP.NET AJAX, and Python Flask. Collaboration: Working with cross-functional teams to deliver new features, improve performance, and ensure seamless integration. Optimization: Troubleshooting and refining ERP functionalities to increase efficiency and reliability.",
     skills: [
